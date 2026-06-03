@@ -106,7 +106,7 @@ Operational ERP/CRM for **Felix MultiServicios** technical services.
 ### 📬 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fidel-fernando-felix-valdez)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Fidel.Felix.Valdez@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=Fidel.Felix.Valdez@gmail.com)
 
 ---
 
