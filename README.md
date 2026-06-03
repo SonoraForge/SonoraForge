@@ -106,24 +106,24 @@ Operational ERP/CRM for **Felix MultiServicios** technical services.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=REEMPLAZA_TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SonoraForge&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
   &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REEMPLAZA_TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonoraForge&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=REEMPLAZA_TU_USUARIO&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=SonoraForge&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 📬 Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/REEMPLAZA_TU_USUARIO)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:REEMPLAZA_TU_CORREO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fidel-fernando-felix-valdez)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Fidel.Felix.Valdez@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=REEMPLAZA_TU_USUARIO&color=6366f1&style=flat-square&label=Profile+views" />
+  <img src="https://komarev.com/ghpvc/?username=SonoraForge&color=6366f1&style=flat-square&label=Profile+views" />
 </p>
